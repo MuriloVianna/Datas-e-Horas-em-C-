@@ -1,4 +1,4 @@
-# Cronômetro
+# Data e Hora
 
 ## 📅 Sobre o Projeto
 
